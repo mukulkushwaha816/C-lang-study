@@ -1,3 +1,3 @@
-a=23
-b=1
-print(a+b)
+a=12
+b=2
+print(a*b)
